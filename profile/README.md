@@ -1,12 +1,13 @@
-## Hi there 👋
+# Welcome at Squadracer
+![Header](https://user-images.githubusercontent.com/29872940/218520574-cd57136a-b650-4556-8e4c-79839d91a0f9.png)
 
-<!--
+## About us
+Squadracer is a professional community of full-stack developers working with serenity to assist you with your projects.
 
-**Here are some ideas to get you started:**
+## Socials - Contact
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [🌍 Website](https://squadracer.com)
+- [🐦 Twitter](https://twitter.com/squadracer)
+- [🧑‍💻 LinkedIn](https://www.linkedin.com/company/squadracer/)
+- [🐙 GitHub](https://github.com/squadracer)
+- [🔴 Twitch](https://www.twitch.tv/squadracer)
